@@ -100,7 +100,7 @@ I'm a passionate **Software Engineer** with **4+ years** of experience building 
 
 ---
 
-<!-- SECTION E: GITHUB STATS -->
+<!-- SECTION E: GITHUB STATS
 ## 📈 GitHub Stats
 
 <div align="center">
@@ -114,8 +114,8 @@ I'm a passionate **Software Engineer** with **4+ years** of experience building 
 </div>
 
 ---
-
-<!-- SECTION F: GITHUB TROPHIES -->
+ -->
+<!-- SECTION F: GITHUB TROPHIES
 ## 🏆 GitHub Trophies
 
 <div align="center">
@@ -125,7 +125,7 @@ I'm a passionate **Software Engineer** with **4+ years** of experience building 
 </div>
 
 ---
-
+ -->
 <!-- SECTION H: FOOTER -->
 ## 🤝 Let's Build Something Amazing Together
 
